@@ -43,6 +43,7 @@ laptop/pc (to ssh into the robot ).
 1x 2.1mm DC Socket Power Female Connector Adapter Screw Terminal Plug https://www.amazon.nl/-/en/Connector-Terminal-Compatible-Security-Projector/dp/B08LKVPXMS/ref=sr_1_1?crid=34FRIGV8HZUFR&dib=eyJ2IjoiMSJ9.VaecFBlxfMOnmggfUBiFLNmfe71XoAr6ZJpgmp0ke_20Vrx5ldpgiDRQlfw9Y32Bn9G-2rzXqqaLKbcXFyGpgQrwD_OLtjoMU7c9ZxtGl5Q5Dqbz8jIS9GEST0kpfUfzL8TOonPSGF5Cs-q02c4sn3DmMle9lIjTU8LLaT-zzjYAu18lkj2vpM1LnMMNoSFtbStyAyajnJ1qCqhPiRemXEfPZOJXAeavERuJZEwUY2yJf1S70r3pbmrpmcrofK0FkpRlcppb1FrX7lhcDvRx88sLeSrBhMPfPWhlxkEcUxA.XVD4U9Bc3vFKH4J32Su0kDfCGWl7tZQTtgkpYsC0rIQ&dib_tag=se&keywords=dc+terminal+female+connector+2.1&qid=1712480812&sprefix=dc+terminal+female+connector+2.1%2Caps%2C63&sr=8-1.
 
 2x wheels https://www.tinytronics.nl/nl/mechanica-en-actuatoren/onderdelen/wielen/reservewiel-auto-kit-zelfbouw.
+1x 2mm flat screwdriver for terminal connector and l298n motordriver.
 screwdriver or allen wrench and nuts for the:
 4x m2.5 6mm
 4x m3  8mm
