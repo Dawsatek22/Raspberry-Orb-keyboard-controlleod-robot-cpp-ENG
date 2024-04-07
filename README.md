@@ -1,4 +1,4 @@
-                 WARNINGS!
+                    WARNINGS!
 this project is used
 with 9v battery so supply be careful.
 most links are in the video description or github page.
@@ -23,6 +23,8 @@ TOOLS AND MATERIAL REQUIRED:
 
 laptop/pc (to ssh into the robot ).
 1x Raspberrypi 3/4Model b/5.
+1 x 1m usb to usb c cable 
+1x power bank 5v and a minium of 2A;
 1x 3d printer( to print the parts).
 6x f/f 20mm dupont wires https://www.amazon.nl/-/en/AZDelivery-compatible-Arduino-Raspberry-Including/dp/B07KYHBVR7/ref=sr_1_2?crid=2AOCVAZW70EAQ&dib=eyJ2IjoiMSJ9.A7UL3aW1haA5anJ9pwVrL3cqp__C93PO_QMWIVBqGLXgOcJC2-2jWXKieyrPCoNmRq9zBopBEZEqDD-veNiSvDvIxDRHYof6g7RTGrrT3Hqin-m-CWi1ab8wB8cZw_lWOJK3lnjMCl2-xcwSzwxDMlF5-1z9KVDpopdRiMk2eFbEk25a6cPT3N_Ah-KUpQ_mxOr9bQA_vjvOqiSmyJthouwZu2OeNqFVSGKtPw_2AwEWF1_EN0WzGRf6czhzxfEIfsptJIkr3tTJgmH8zXzAOm4EiyPPAzwseQhJOUgktgY.iCCLNDA6-mLkiyJ2RK3Mzm9bHpC7fuy1zaTn4B5k1kI&dib_tag=se&keywords=dupont+wire+female+to+female&qid=1712479977&sprefix=dupont+wire+fe%2Caps%2C73&sr=8-2.
 
@@ -56,7 +58,7 @@ screwdriver or allen wrench and nuts for the:
 1x9 volt batteries holder. https://openroboticplatform.com/.
 1x L298 Holder https://openroboticplatform.com/.
 
-github link for project : https://github.com/Dawsatek22/Raspberry-Orb-keyboard-controlled-robot-c-ENG.
+github link for project https://github.com/Dawsatek22/Raspberry-Orb-keyboard-controlled-robot-c-ENG:
 if you like my projects i post my c++ robotics project a week earlier on this platforms(recommended for 12+ or guardian Permission):
 
 joshwhotv: https://www.joshwhotv.com/channel/Dawsatek22.
