@@ -56,7 +56,7 @@ screwdriver or allen wrench and nuts for the:
 1x9 volt batteries holder. https://openroboticplatform.com/.
 1x L298 Holder https://openroboticplatform.com/.
 
-github link for project :
+github link for project : https://github.com/Dawsatek22/Raspberry-Orb-keyboard-controlled-robot-c-ENG.
 if you like my projects i post my c++ robotics project a week earlier on this platforms(recommended for 12+ or guardian Permission):
 
 joshwhotv: https://www.joshwhotv.com/channel/Dawsatek22.
