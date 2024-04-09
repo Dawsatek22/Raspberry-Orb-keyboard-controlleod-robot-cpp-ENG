@@ -60,6 +60,7 @@ screwdriver or allen wrench and nuts for the:
 1x L298 Holder https://openroboticplatform.com/.
 
 github link for project https://github.com/Dawsatek22/Raspberry-Orb-keyboard-controlled-robot-c-ENG:
+wiringPiV3 setup  example:https://youtu.be/nXOX3xjtNJ0?si=8Sg7azexMoXTmvXA. 
 if you like my projects i post my c++ robotics project a week earlier on this platforms(recommended for 12+ or guardian Permission):
 
 joshwhotv: https://www.joshwhotv.com/channel/Dawsatek22.
