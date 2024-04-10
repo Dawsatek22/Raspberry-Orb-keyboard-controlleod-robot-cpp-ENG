@@ -3,7 +3,7 @@ this project is used
 with 9v battery so supply be careful.
 most links are in the video description or github page.
 
-this project uses a WiringPi for GPIO programming(install guide video is in the video description and repository Readme file.)
+this project uses a WiringPi for GPIO programming(install guide video is in the video description and repository Readme file here https://github.com/Dawsatek22/eng_wiringpiblinkv3_cpp_setup-vscode-version)
 
 the 3d parts are printed using the Open Robotic Platform site.(more info here: https://openroboticplatform.com/).    
 Most links are in the video description or github page.      
